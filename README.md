@@ -132,7 +132,7 @@ python -m uvicorn main:app --reload
 
 Backend runs at:
 ```bash
-http://127.0.0.1:8000
+https://healthriskprediction-1.onrender.com/docs
 ```
 
 API Docs:
@@ -149,7 +149,7 @@ npm start
 
 Frontend runs at:
 ```bash
-http://localhost:3000
+https://health-risk-predict.netlify.app
 ```
 🧪 Sample Test Inputs
 ```bash
